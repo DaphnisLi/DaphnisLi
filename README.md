@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+## 发布代码
+npm run deploy
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
