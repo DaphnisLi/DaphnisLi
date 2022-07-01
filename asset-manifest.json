@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/DaphnisLi/static/js/main.c2e9beda.js",
+    "main.js": "/DaphnisLi/static/js/main.bd337b78.js",
     "static/js/787.4b1820c6.chunk.js": "/DaphnisLi/static/js/787.4b1820c6.chunk.js",
     "index.html": "/DaphnisLi/index.html",
-    "main.c2e9beda.js.map": "/DaphnisLi/static/js/main.c2e9beda.js.map",
+    "main.bd337b78.js.map": "/DaphnisLi/static/js/main.bd337b78.js.map",
     "787.4b1820c6.chunk.js.map": "/DaphnisLi/static/js/787.4b1820c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c2e9beda.js"
+    "static/js/main.bd337b78.js"
   ]
 }
